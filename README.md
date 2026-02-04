@@ -43,5 +43,5 @@ A full-stack application for managing employees and tasks with role-based access
 1. Create Manager: `npm run seed`
 
 ## testing Credentials
-email : manageer@gmail.com
+email : manager@gmail.com
 password : Test@123
